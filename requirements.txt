@@ -33,7 +33,6 @@ pytz==2023.3.post1
 referencing
 requests
 rich
-rpds-py
 scikit-learn
 scipy
 six
