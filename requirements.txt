@@ -1,4 +1,4 @@
-﻿altair==5.1.2
+altair
 attrs==23.1.0
 backports.zoneinfo==0.2.1
 blinker==1.7.0
